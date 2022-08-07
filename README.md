@@ -15,6 +15,6 @@ Trabajo práctico cuatrimestral de la materia Sistemas Operativos, correspondien
 | Tantucci, Ignacio | [@ITantucci](https://github.com/ITantucci) |
 
 ## Documentos de interés
-[Enunciado a KISS](https://docs.google.com/document/d/17WP76Vsi6ZrYlpYT8xOPXzLf42rQgtyKsOdVkyL5Jj0/edit)
+[Enunciado a KISS](https://github.com/ITantucci/SO-KISS-TESLA/blob/master/KISS%20-%20v1.1.pdf)
 
-[Pruebas](https://docs.google.com/document/d/1SBBTCweMCiBg6TPTt7zxdinRh4ealRasbu0bVlkty5o/edit)
+[Pruebas](https://github.com/ITantucci/SO-KISS-TESLA/blob/master/KISS%20-%20Pruebas.pdf)
